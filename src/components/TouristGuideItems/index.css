@@ -1,0 +1,33 @@
+.list-item-container {
+  list-style-type: none;
+  width: 48%;
+  background-color: #ffffff;
+  margin-bottom: 40px;
+}
+
+.image {
+  width: 100%;
+}
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+}
+
+.tour-name {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 0px;
+}
+
+.tour-des {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+}
